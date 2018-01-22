@@ -1,0 +1,18 @@
+{
+  "name": "@opuscapita/github-flow-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "14.0.4",
+    "@octokit/webhooks": "3.1.0",
+    "body-parser": "1.18.2",
+    "express": "4.16.2"
+  }
+}
